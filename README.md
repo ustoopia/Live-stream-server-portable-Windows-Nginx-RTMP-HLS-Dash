@@ -14,7 +14,9 @@ it and choose: "Run as administrator". Enter something like the following in the
 (In this example I placed the contents of the zip file in L:\livestream.
 
 dir L:\livestream -Recurse | Unblock-File
+
 dir L:\livestream\PHP -Recurse | Unblock-File
+
 dir L:\livestream\extras -Recurse | Unblock-File
 
 Please use your brain here, and do this for the locations where you unzipped the file.
