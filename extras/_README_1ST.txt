@@ -2,6 +2,9 @@ These little extra's are included because they can help us setup a running
 version of Nginx and expand it with some features that might be of interest
 to you. Here's what they all do individually:
 
+"ffmpeg" we can use to transcode the live-stream for adaptive bitrate live-
+streaming. Important to add the location to your Windows path. See video.
+
 "RunHiddenConsole.exe" is used to start an instance of php-chi.exe on port 9000.
 It's on that some port that Nginx can call on it to have it process php files.
 Using RunHiddenConsole allows a command to be used just as on the command prompt
