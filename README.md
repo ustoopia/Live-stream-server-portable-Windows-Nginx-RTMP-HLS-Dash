@@ -11,13 +11,13 @@ You can accomplish this by right-clicking the executable files and choose proper
 then choose unblock. But there is a faster, easy way to unblock all the files in a certain
 folder. Click start, start typing: "Windows Powershell" and if it appears, right click on
 it and choose: "Run as administrator". Enter something like the following in the window.
-(In this example I placed the contents of the zip file in L:\livestream.
+(In this example I placed the contents of the zip file in C:\livestream.
 
-dir L:\livestream -Recurse | Unblock-File
+dir C:\livestream -Recurse | Unblock-File
 
-dir L:\livestream\PHP -Recurse | Unblock-File
+dir C:\livestream\PHP -Recurse | Unblock-File
 
-dir L:\livestream\extras -Recurse | Unblock-File
+dir C:\livestream\extras -Recurse | Unblock-File
 
 Please use your brain here, and do this for the locations where you unzipped the file.
 
