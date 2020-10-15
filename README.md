@@ -45,6 +45,10 @@ Instructions and download links are in the README files in their respective fold
 Important: PHP only seems to work if you have MS Visual Studio Redistributable 2015-2019.
 These are included and can be found in the "extras" folder. 
 
+If you want to use this setup straight away, then make sure you set your OBS or any other
+live-stream application correctly. The stream URL should be: "rtmp://localhost/live" and
+the live-stream key should be: "stream"
+
 If you have any questions, please feel free to NOT bother me about it. Just use google like 
 any other well respected geek.
 
@@ -91,4 +95,4 @@ auto/configure \
     --with-stream \
     --with-stream_ssl_module \
     --add-module=nginx-rtmp-module \
-    
+   
