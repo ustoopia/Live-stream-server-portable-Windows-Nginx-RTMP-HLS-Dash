@@ -1,0 +1,3 @@
+@ECHO OFF
+ECHO Starting PHP FastCGI...
+"extras\RunHiddenConsole.exe" "PHP\php-cgi.exe" -b 127.0.0.1:9000
