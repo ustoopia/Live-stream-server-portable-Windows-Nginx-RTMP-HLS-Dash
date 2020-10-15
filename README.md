@@ -15,8 +15,6 @@ it and choose: "Run as administrator". Enter something like the following in the
 
 dir C:\livestream -Recurse | Unblock-File
 
-dir C:\livestream\PHP -Recurse | Unblock-File
-
 dir C:\livestream\extras -Recurse | Unblock-File
 
 Please use your brain here, and do this for the locations where you unzipped the file.
