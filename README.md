@@ -1,5 +1,7 @@
 # Live-stream-server-portable-Windows-Nginx-RTMP-HLS-Dash
-This zip file will allow you to start live-streaming in a matter of minutes! Unzip it to any location, preferably a USB drive
+
+Watch the Youtube video I mde to accompany this setup: 
+https://www.youtube.com/watch?v=a9qTHTtI9Oc
 
 This package was forked from SwampApe/nginx-rtmp-1.17.10-windows.
 
