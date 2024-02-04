@@ -3,6 +3,8 @@
 Watch the Youtube video I mde to accompany this setup: 
 https://www.youtube.com/watch?v=a9qTHTtI9Oc
 
+[![Link to YouTube](https://img.youtube.com/vi/a9qTHTtI9Oc/0.jpg)](https://www.youtube.com/watch?v=a9qTHTtI9Oc)
+
 ![Some Logo](https://i.imgur.com/Mpue2uI.png)
 
 This package was forked from SwampApe/nginx-rtmp-1.17.10-windows.
