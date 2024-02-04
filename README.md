@@ -1,6 +1,6 @@
 # Live-stream server portable. Windows+Nginx+RTMP+HLS+Dash
 
-Watch the Youtube video I mde to accompany this setup: 
+Watch the Youtube video I made to accompany this setup: 
 https://www.youtube.com/watch?v=a9qTHTtI9Oc
 
 [![Link to YouTube](https://img.youtube.com/vi/a9qTHTtI9Oc/0.jpg)](https://www.youtube.com/watch?v=a9qTHTtI9Oc)
